@@ -64,7 +64,7 @@ Connection to Database: The application connects to a database hosted on Azure. 
 # Step 4: Error Handling
 If any action fails (e.g., a project is not found or a database connection error occurs), the application will display an appropriate error message and prompt the user to retry or take corrective action.
 
-MY REFERENCE LIST FOR PROJECT 3
+# MY REFERENCE LIST FOR PROJECT 3
 1.	CMPG 323 – IT Developments. 2023, 31 Aug. Patterns & Standards [YouTube video]. https://youtu.be/-Xn7i_BcKJg Date of access: 19 Aug. 2024.
 
 2.	CMPG 323 – IT Developments. 2023, 6 Sep. Implementing Design Patterns [YouTube video]. https://youtu.be/_5iD4efyeE8 Date of access: 20 Aug. 2024.
