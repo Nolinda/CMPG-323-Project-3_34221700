@@ -64,7 +64,36 @@ Connection to Database: The application connects to a database hosted on Azure. 
 # Step 4: Error Handling
 If any action fails (e.g., a project is not found or a database connection error occurs), the application will display an appropriate error message and prompt the user to retry or take corrective action.
 
-# Step 5: Security
-Authentication: If the application is secured with authentication (e.g., Azure Active Directory), users will need to log in with their credentials to access the app.
-Data Protection: Sensitive information such as database credentials is not exposed in the code and is stored securely using environment variables or Azure’s secret management services.
+MY REFERENCE LIST FOR PROJECT 3
+1.	CMPG 323 – IT Developments. 2023, 31 Aug. Patterns & Standards [YouTube video]. https://youtu.be/-Xn7i_BcKJg Date of access: 19 Aug. 2024.
+
+2.	CMPG 323 – IT Developments. 2023, 6 Sep. Implementing Design Patterns [YouTube video]. https://youtu.be/_5iD4efyeE8 Date of access: 20 Aug. 2024.
+
+
+3.	CMPG 323 – IT Developments. 2023, 6 Sep. Background Patterns [YouTube video]. https://youtu.be/E8QQpncP9ts Date of access: 20 Aug. 2024.
+
+4.	CMPG 323 – IT Developments. 2023, 31 Aug Application of Design Patterns to ASP.NET Core 3.1 MVC Web App [YouTube video]. https://youtu.be/VYvgmMkGUfc Date of access: 19 Aug. 2024.
+
+5.	OpenAI (2024) Response from ChatGPT on the topic of concurrency control in web applications. Available at: https://chat.openai.com/ (Accessed: 23 August 2024).
+
+6.	OpenAI (2024) Response from ChatGPT on the topic of How to make repository classes to interact with controller classes . Available at: https://chat.openai.com/ (Accessed: 23 August 2024).
+
+7.	OpenAI (2024) Response from ChatGPT on the topic of how to apply dependency injection correctly. Available at: https://chat.openai.com/ (Accessed: 21 August 2024).
+
+8.	OpenAI (2024) Response from ChatGPT on the topic of How to correct recursive calls in ClientRepository. Available at: https://chat.openai.com/ (Accessed: 21 August 2024).
+
+9.	Microsoft (n.d.) Build web apps with ASP.NET Core for beginners. Available at: https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-aspnet-core/ (Accessed: 25 August 2024).
+
+10.	Microsoft (n.d.) ASP.NET MVC Overview. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/ (Accessed: 23 August 2024).
+
+11.	Microsoft (n.d.) Secure a .NET web app with the ASP.NET Core Identity framework. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ (Accessed: 23 August 2024).
+
+12.	Agarwal, M. (2023) Design patterns in C# .NET. Available at: https://www.c-sharpcorner.com/article/design-patterns-in-c-sharp/ (Accessed: 22 August 2024).
+
+13.	Jena, B. (2023) Architectural patterns in .NET. Available at: https://www.c-sharpcorner.com/article/architectural-patterns-in-net/ (Accessed: 25 August 2024).
+
+14.	Thumb IKR – Programming examples. 2020, 6 Sep. Use Generic Type Controller and Interface (Repository Pattern) | ASP.NET Core Web API | Basic CRUD [YouTube video]. https://youtu.be/gb-wA2HDSYw Date of access: 19 Aug. 2024.
+
+15.	TutorialUE. 2022, 8 Aug. Dependency Injection for ASP NET Core 6.0. [YouTube video]. https://youtu.be/9J9a77ga9R0 Date of access: 23 Aug. 2024.
+
 
