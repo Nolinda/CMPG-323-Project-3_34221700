@@ -1,4 +1,4 @@
-# CMPG-323-Project-3_34221700
+# CMPG-323-Project-3
 
 # Project Overview
 This project involves enhancing and improving an existing Web Application that manages CRUD functionality for project and client data. As a developer, I am  expected to focus on the reading and understanding of code while also enhancing the application through the implementation of architectural patterns, coding principles, and design patterns.
